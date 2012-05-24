@@ -1,0 +1,15 @@
+*{margin:0;padding:0;}
+
+body {
+	
+}
+#dale{
+	cursor: pointer;
+}
+#galeria{
+	width:900px;
+	height:400px;
+	float:left;
+	overflow:hidden;
+	position:relative;
+}
